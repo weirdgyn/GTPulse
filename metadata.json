@@ -1,0 +1,6 @@
+{
+  "name": "GT Pulse",
+  "description": "Premium bodybuilding and fitness planner & tracker with offline logging, badges, and AI-powered coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GT Pulse</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_plan_splits">Plan Splits</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_train_log">Train &amp; Log</string>
+    <string name="tab_ai_coach">AI Coach</string>
+    
+    <!-- Profile Panel -->
+    <string name="athlete_profile">Athlete Profile</string>
+    <string name="edit_stats">Edit Stats</string>
+    <string name="cancel">Cancel</string>
+    <string name="athlete_name">Athlete Name</string>
+    <string name="age">Age</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="preferred_training_location">Preferred Training Split Location</string>
+    <string name="physical_target_objective">Physical Target Objective:</string>
+    <string name="save_profile">Save Profile Parameters</string>
+    <string name="privacy_rules_compliant">HIPAA Compliant. Local Sandboxed SQLite Encrypted Storage.</string>
+    
+    <!-- Seeding -->
+    <string name="seed_description">Seed mock historical bodybuilding sessions (over the last 12 days) to populate progress metrics, milestones, and graphs instantly!</string>
+    <string name="seed_button">Seed Preconfigured History</string>
+    
+    <!-- Milestone Analytics -->
+    <string name="milestone_title">Milestone Analytics &amp; Tonnage Chart</string>
+    <string name="milestone_subtitle">Historical bodyweight and set trends</string>
+    <string name="awaiting_records">Awaiting exercise records to construct curve graphs</string>
+    
+    <!-- Prestige Badges -->
+    <string name="unlocked_badges">Unlocked Prestige Badges</string>
+    
+    <!-- Wearable Sync -->
+    <string name="wearable_title">Smartwatch &amp; Wearable Sync</string>
+    <string name="wearable_subtitle">Simulate local biometric sensor pairing</string>
+    <string name="sync_device_status">Sync Device Status:</string>
+    <string name="captured_metrics">Captured Metrics:</string>
+
+    <!-- Expandable FAB -->
+    <string name="action_add_exercise">New Exercise</string>
+    <string name="action_add_plan">New Workout Plan</string>
+</resources>

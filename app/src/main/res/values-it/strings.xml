@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GT Pulse</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_plan_splits">Pianifica Schede</string>
+    <string name="tab_library">Libreria</string>
+    <string name="tab_train_log">Allenati</string>
+    <string name="tab_ai_coach">Coach IA</string>
+    
+    <!-- Profile Panel -->
+    <string name="athlete_profile">Profilo Atleta</string>
+    <string name="edit_stats">Modifica Statistiche</string>
+    <string name="cancel">Annulla</string>
+    <string name="athlete_name">Nome Atleta</string>
+    <string name="age">Età</string>
+    <string name="weight_kg">Peso (kg)</string>
+    <string name="height_cm">Altezza (cm)</string>
+    <string name="preferred_training_location">Luogo di Allenamento Preferito</string>
+    <string name="physical_target_objective">Obiettivo Fisico Mirato:</string>
+    <string name="save_profile">Salva Parametri Profilo</string>
+    <string name="privacy_rules_compliant">Conforme a GDPR. Archivio SQLite Locale Cifrato e Sicuro</string>
+    
+    <!-- Seeding -->
+    <string name="seed_description">Genera dati storici di bodybuilding fittizi (degli ultimi 12 giorni) per compilare istantaneamente le metriche di progresso, i traguardi e i grafici!</string>
+    <string name="seed_button">Popola Cronologia</string>
+    
+    <!-- Milestone Analytics -->
+    <string name="milestone_title">Analisi Traguardi e Grafico Tonnaggio</string>
+    <string name="milestone_subtitle">Andamento storico del peso corporeo e delle serie</string>
+    <string name="awaiting_records">In attesa di record di allenamento per tracciare i grafici</string>
+    
+    <!-- Prestige Badges -->
+    <string name="unlocked_badges">Distintivi di Prestigio Sbloccati</string>
+    
+    <!-- Wearable Sync -->
+    <string name="wearable_title">Sincronizzazione Smartwatch e Wearable</string>
+    <string name="wearable_subtitle">Simula l\'associazione con sensori biometrici locali</string>
+    <string name="sync_device_status">Stato Sincronizzazione Dispositivo:</string>
+    <string name="captured_metrics">Metriche Rilevate:</string>
+
+    <!-- Expandable FAB -->
+    <string name="action_add_exercise">Nuovo Esercizio</string>
+    <string name="action_add_plan">Nuova Scheda</string>
+</resources>
